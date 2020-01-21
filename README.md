@@ -1,4 +1,4 @@
-# AI_DL_ML_TensorFlow
+# AI_DL_ML_TensorFlow (Updated Regularly)
 
 Aritificial Intelligence, Deep Learning, Machine Learning with TensorFlow. Each folder contains two extensions of the same program: a.py extension and a ipynb extension.
 
