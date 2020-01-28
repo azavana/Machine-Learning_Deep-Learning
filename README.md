@@ -1,6 +1,6 @@
 # Deep-Learning_Machine-Learning with TensorFlow (Updated Regularly)
 
-Aritificial Intelligence, Deep Learning, Machine Learning with TensorFlow. Each folder contains two extensions of the same program: a.py extension and a.ipynb extension.
+Deep Learning, Machine Learning with TensorFlow. Each folder contains two extensions of the same program: a.py extension and a.ipynb extension.
 
 # How to run (Linux Debian / Ubuntu)
 
